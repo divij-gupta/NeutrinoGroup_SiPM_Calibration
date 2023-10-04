@@ -1,7 +1,4 @@
-# internship_with_Elena
-Divij's code for the summer 2023 research project with Elena
-
-Brief overview of the files here:
+Brief overview of Divij's code for the summer 2023 research project with Elena:
 
 The c++ file and text file convert the binary output from the digitizer to root files to analyse - best to do this on the computer in the lab itself
 
